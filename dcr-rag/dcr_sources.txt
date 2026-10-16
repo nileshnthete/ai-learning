@@ -1,0 +1,34 @@
+# DCR document set for the Phase 2 RAG (public, non-confidential)
+# One URL per line. Lines starting with # are ignored.
+
+# Snowflake Data Clean Rooms
+https://docs.snowflake.com/en/user-guide/cleanrooms/overview
+https://docs.snowflake.com/en/user-guide/cleanrooms/about
+https://docs.snowflake.com/en/user-guide/cleanrooms/getting-started
+https://docs.snowflake.com/en/user-guide/cleanrooms/v1/policies
+https://docs.snowflake.com/en/user-guide/cleanrooms/activation
+https://docs.snowflake.com/en/user-guide/cleanrooms/connector-activation
+https://docs.snowflake.com/en/user-guide/cleanrooms/demo-flows/basic-flow-overlap
+https://docs.snowflake.com/en/user-guide/cleanrooms/dcr-glossary
+
+# Databricks
+https://docs.databricks.com/aws/en/clean-rooms/
+https://docs.databricks.com/aws/en/dev-tools/auth/oauth-m2m
+
+# AWS Clean Rooms and connectivity
+https://docs.aws.amazon.com/pdfs/clean-rooms/latest/userguide/user-guide.pdf
+https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules.html
+https://docs.aws.amazon.com/clean-rooms/latest/userguide/glossary.html
+https://docs.aws.amazon.com/athena/latest/ug/connectors-snowflake.html
+https://docs.snowflake.com/en/user-guide/key-pair-auth
+
+# Activation platforms
+https://developers.facebook.com/docs/marketing-api/audiences/guides/custom-audiences
+https://support.google.com/google-ads/answer/6379332
+https://developers.google.com/google-ads/api/docs/remarketing/audience-segments/customer-match/get-started
+https://support.google.com/google-ads/answer/6299717
+
+# Industry standards and context
+https://www.admonsters.com/what-are-iab-tech-labs-data-clean-room-guidance-and-interoperability-specifications/
+https://iapp.org/news/b/iab-tech-lab-publishes-data-clean-rooms-guidance
+https://liveramp.com/blog/liveramp-habu-accelerate-data-collaboration
