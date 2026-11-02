@@ -1,0 +1,70 @@
+[
+  {"id": "exact-rotate", "category": "exact terms",
+   "question": "How do I rotate a Snowflake key pair?",
+   "sources": ["key-pair-auth"], "phrase": "EXPIRE_ROTATED_KEY_PAIR_AFTER_HOURS"},
+
+  {"id": "exact-privilege", "category": "exact terms",
+   "question": "What privilege is needed to assign a public key to a Snowflake user?",
+   "sources": ["key-pair-auth"], "phrase": "MODIFY PROGRAMMATIC AUTHENTICATION METHODS"},
+
+  {"id": "exact-conflict", "category": "exact terms",
+   "question": "What happens if I mix create and remove operations in the same OfflineUserDataJob?",
+   "sources": ["customer-match/get-started"], "phrase": "CONFLICTING_OPERATION"},
+
+  {"id": "para-no-password", "category": "different wording",
+   "question": "How can a backend service log in to Snowflake without a password?",
+   "sources": ["key-pair-auth"], "phrase": "key pair authentication"},
+
+  {"id": "para-list-expiry", "category": "different wording",
+   "question": "How long does someone stay on a Google Customer Match list?",
+   "sources": ["answer/6379332"], "phrase": "540 days"},
+
+  {"id": "para-kids", "category": "different wording",
+   "question": "Can I upload data about young kids to Google ad audience lists?",
+   "sources": ["answer/6299717"], "phrase": "under the age of 13"},
+
+  {"id": "para-databricks-script", "category": "different wording",
+   "question": "How should an unattended script authenticate to Databricks?",
+   "sources": ["oauth-m2m"], "phrase": "service principal"},
+
+  {"id": "small-liveramp", "category": "small document",
+   "question": "Which company did LiveRamp acquire to strengthen its clean room?",
+   "sources": ["liveramp"], "phrase": "Habu"},
+
+  {"id": "small-iab", "category": "small document",
+   "question": "What did IAB Tech Lab publish about data clean rooms?",
+   "sources": ["admonsters", "iapp"], "phrase": "IAB Tech Lab"},
+
+  {"id": "small-meta", "category": "small document",
+   "question": "How do I create an audience on Meta from my customer list?",
+   "sources": ["custom-audiences"], "phrase": "custom audience"},
+
+  {"id": "aws-rules", "category": "AWS PDF",
+   "question": "What kinds of analysis rules can be configured in AWS Clean Rooms?",
+   "sources": ["docs.aws.amazon.com/pdfs/clean-rooms", "docs.aws.amazon.com/clean-rooms"], "phrase": "aggregation"},
+
+  {"id": "aws-dp", "category": "AWS PDF",
+   "question": "How does AWS Clean Rooms protect individuals with differential privacy?",
+   "sources": ["docs.aws.amazon.com/pdfs/clean-rooms", "docs.aws.amazon.com/clean-rooms"], "phrase": "differential privacy"},
+
+  {"id": "aws-configured-table", "category": "AWS PDF",
+   "question": "What is a configured table in AWS Clean Rooms?",
+   "sources": ["docs.aws.amazon.com/pdfs/clean-rooms", "docs.aws.amazon.com/clean-rooms"], "phrase": "configured table"},
+
+  {"id": "snow-provider-consumer", "category": "Snowflake clean rooms",
+   "question": "What is the difference between a provider and a consumer in a Snowflake clean room?",
+   "sources": ["cleanrooms"], "phrase": "consumer"},
+
+  {"id": "athena-snowflake", "category": "Snowflake clean rooms",
+   "question": "How does Amazon Athena connect to Snowflake for federated queries?",
+   "sources": ["connectors-snowflake"], "phrase": "Lambda"},
+
+  {"id": "none-credit-price", "category": "unanswerable",
+   "question": "How much does Snowflake cost per credit?"},
+
+  {"id": "none-ceo", "category": "unanswerable",
+   "question": "Who is the CEO of Snowflake?"},
+
+  {"id": "none-tiktok-price", "category": "unanswerable",
+   "question": "How much does a TikTok ad campaign cost?"}
+]
